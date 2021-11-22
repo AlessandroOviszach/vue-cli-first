@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessandroOviszach/vue-cli-first.git"
+  },
+  "author": "Alessandro Oviszach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlessandroOviszach/vue-cli-first/issues"
+  },
+  "homepage": "https://github.com/AlessandroOviszach/vue-cli-first#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
